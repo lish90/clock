@@ -1,0 +1,30 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+
+}
+
+body{
+  background-color: grey;
+}
+
+.main {
+  background:#ccc;
+  width: 400px;
+  height: 175px;
+  margin: 200px,auto;
+  position: relative;
+}
+.badge {
+width: 96px;
+background: #e66357;
+color: white;
+padding: 5px, 10px;
+font font-family:sans-sarif;
+font-weight: bold;
+position: absolute;
+top:-15px;
+left:50%;
+
+}
